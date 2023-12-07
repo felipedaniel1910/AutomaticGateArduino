@@ -38,7 +38,8 @@ Connect the ESP01 to the electrical gate system following the provided schematic
 
    ```bash
    git clone https://github.com/felipedaniel1910/esp01-mobile-gate-control.git
-   cd esp01-mobile-gate-control```
+   cd esp01-mobile-gate-control
+   ```
 
 ## Usage
 
