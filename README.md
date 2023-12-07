@@ -17,7 +17,6 @@ Welcome to the ESP01 Mobile-Controlled Electrical Gate repository! This project 
 - [Software Setup](#software-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
