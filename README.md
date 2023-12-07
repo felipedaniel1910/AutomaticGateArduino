@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the ESP01 Mobile-Controlled Electrical Gate repository! This project focuses on using the ESP01 module to control an electrical gate through a mobile app. The ESP01 connects to your local Wi-Fi network, allowing you to operate the gate remotely using a mobile application.
+Welcome to the ESP01 Mobile-Controlled Electrical Gate repository! This project focuses on using the ESP01 module to control an electrical gate through a mobile app. The ESP01 connects to your local Wi-Fi network, allowing you to operate the gate remotely using a mobile application. 
 
 ## Features
 
@@ -62,6 +62,7 @@ Connect the ESP01 to the electrical gate system following the provided schematic
 ## Contributing
 
 Contributions to enhance functionality, improve code quality, or add new features are welcome! If you'd like to contribute, please follow the steps outlined in the [Contributing Guidelines](CONTRIBUTING.md).
+
 
 
 Happy gate controlling! 🚧📱
