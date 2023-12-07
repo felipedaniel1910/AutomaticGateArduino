@@ -60,8 +60,8 @@ Connect the ESP01 to the electrical gate system following the provided schematic
 
 ## Contributing
 
-Contributions to enhance functionality, improve code quality, or add new features are welcome! If you'd like to contribute, please follow the steps outlined in the [Contributing Guidelines](CONTRIBUTING.md).
+Contributions to enhance functionality, improve code quality, or add new features are welcome!
 
-
+<br/>
 
 Happy gate controlling! 🚧📱
