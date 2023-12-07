@@ -37,8 +37,8 @@ Connect the ESP01 to the electrical gate system following the provided schematic
 1. Clone this repository to your development environment:
 
    ```bash
-   git clone https://github.com/felipedaniel1910/esp01-mobile-gate-control.git
-   cd esp01-mobile-gate-control
+   git clone https://github.com/felipedaniel1910/AutomaticGateArduino.git
+   cd AutomaticGateArduino
    ```
 
 ## Usage
